@@ -1,4 +1,4 @@
-# bionic_reading_app
+# BionicBookReader
 
 A new Flutter project.
 
