@@ -1,6 +1,6 @@
 # BionicBookReader
 
-A new Flutter project.
+An app that uses the bionic reading technology that allows you read your favourite books twice as fast!
 
 ## Getting Started
 
